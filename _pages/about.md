@@ -17,7 +17,7 @@ Email: chizewen [at] outlook.com; zewenchi [at] microsoft.com
 Selected Publications
 ------
 
-- [Reward Reasoning Model](https://arxiv.org/abs/2505.14674))
+- [Reward Reasoning Model](https://arxiv.org/abs/2505.14674)
 <br/>Jiaxin Guo*, **Zewen Chi***, Li Dong*, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei
 <br/>[\[model\]](https://huggingface.co/Reward-Reasoning))
 
