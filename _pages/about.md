@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Beijing Institute of Technology advised by [Heyan Huang](https://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm) and [Xian-Ling Mao](https://cs.bit.edu.cn/szdw/jsml/js/mxl/index.htm). I interned at Microsoft Research Asia, where I was advised by [Li Dong](http://dong.li/) and [Furu Wei](https://thegenerality.com/), and also interned at ByteDance AI Lab.
+I am a Researcher at Microsoft Research, and previously interned at Mila, ByteDance AI Lab. I received B.S. and Ph.D. in computer science from Beijing Institute of Technology.
 
-Research Interests: Break the language barrier of AI. Currently, I focus on multilingual language models, and cross-lingual transfer learning.
-
-Email: chizewen [at] outlook.com; czw [at] bit.edu.cn
+Email: chizewen [at] outlook.com; zewenchi [at] microsoft.com
 
 
 
 Selected Publications
 ------
 
-- [Can Cross-Lingual Transferability of Multilingual Transformers Be Activated Without End-Task Data?](zewen-chi.github.io)
-<br/>**Zewen Chi**, Heyan Huang, Xian-ling Mao
-<br/>Findings of Association for Computational Linguistics (Findings of ACL), Long paper, 2023.
+- [Reward Reasoning Model](https://arxiv.org/abs/2505.14674))
+<br/>Jiaxin Guo*, **Zewen Chi***, Li Dong*, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei
+<br/>[\[model\]](https://huggingface.co/Reward-Reasoning))
 
 - [XLM-E: Cross-Lingual Language Model Pre-Training via ELECTRA](https://aclanthology.org/2022.acl-long.427/)
 <br/>**Zewen Chi***, Shaohan Huang*, Li Dong, Shuming Ma, Bo Zheng, Saksham Singhal, Payal Bajaj, Xia Song, Xian-Ling Mao, Heyan Huang, Furu Wei
@@ -39,22 +37,6 @@ Selected Publications
 <br/>[\[blog\]](https://www.microsoft.com/en-us/research/blog/microsoft-turing-universal-language-representation-model-t-ulrv2-tops-xtreme-leaderboard/)
 [\[model\]](https://huggingface.co/microsoft/infoxlm-large)
 [\[code\]](https://github.com/microsoft/unilm)
-
-- [Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment](https://aclanthology.org/2021.acl-long.265/)
-<br/>**Zewen Chi**, Li Dong, Bo Zheng#, Shaohan Huang, Xian-Ling Mao, Heyan Huang, Furu Wei.
-Association for Computational Linguistics (ACL), Long paper, 2021.
-<br/>[\[model\]](https://huggingface.co/microsoft/xlm-align-base)
-[\[code\]](https://github.com/microsoft/unilm)
-
-- [mT6: Multilingual Pretrained Text-to-Text Transformer with Translation Pairs](https://aclanthology.org/2021.emnlp-main.125/)
-<br/>**Zewen Chi**, Li Dong, Shuming Ma, Shaohan Huang, Saksham Singhal, Xian-Ling Mao, Heyan Huang, Xia Song, Furu Wei
-<br/>Empirical Methods in Natural Language Processing (EMNLP), Long paper, 2021.
-
-- [Cross-Lingual Natural Language Generation via Pre-Training](https://arxiv.org/pdf/1909.10481.pdf)
-<br/>**Zewen Chi**, Li Dong, Furu Wei, Wenhui Wang, Xian-Ling Mao, Heyan Huang.
-<br/>AAAI Conference on Artificial Intelligence (AAAI), Full paper, 2020.
-<br/>[\[model\]](https://github.com/CZWin32768/xnlg)
-[\[code\]](https://github.com/CZWin32768/xnlg)
 
 Experience
 ------
