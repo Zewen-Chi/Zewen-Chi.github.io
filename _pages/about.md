@@ -18,21 +18,21 @@ Selected Publications
 ------
 
 - [Reward Reasoning Model](https://arxiv.org/abs/2505.14674)
-<br/>Jiaxin Guo*, **Zewen Chi***, Li Dong*, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei
+<br/>Jiaxin Guo*, Zewen Chi*, Li Dong*, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei
 <br/>[\[model\]](https://huggingface.co/Reward-Reasoning)
 
 - [XLM-E: Cross-Lingual Language Model Pre-Training via ELECTRA](https://aclanthology.org/2022.acl-long.427/)
-<br/>**Zewen Chi***, Shaohan Huang*, Li Dong, Shuming Ma, Bo Zheng, Saksham Singhal, Payal Bajaj, Xia Song, Xian-Ling Mao, Heyan Huang, Furu Wei
+<br/>Zewen Chi*, Shaohan Huang*, Li Dong, Shuming Ma, Bo Zheng, Saksham Singhal, Payal Bajaj, Xia Song, Xian-Ling Mao, Heyan Huang, Furu Wei
 <br/>Association for Computational Linguistics (ACL), Long paper, 2022.
 <br/>[\[blog\]](https://www.microsoft.com/en-us/research/blog/microsoft-turing-universal-language-representation-model-t-ulrv5-tops-xtreme-leaderboard-and-trains-100x-faster/)
 
 - [On the Representation Collapse of Sparse Mixture of Experts](https://openreview.net/forum?id=mWaYC6CZf5)
-<br/>**Zewen Chi**, Li Dong, Shaohan Huang, Damai Dai, Shuming Ma, Barun Patra, Saksham Singhal, Payal Bajaj, Xia Song, Xian-Ling Mao, Heyan Huang, Furu Wei
+<br/>Zewen Chi, Li Dong, Shaohan Huang, Damai Dai, Shuming Ma, Barun Patra, Saksham Singhal, Payal Bajaj, Xia Song, Xian-Ling Mao, Heyan Huang, Furu Wei
 <br/>Neural Information Processing Systems (NeurIPS), 2022.
 <br/>[\[code\]](https://github.com/microsoft/torchscale)
 
 - [InfoXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training](https://aclanthology.org/2021.naacl-main.280/)
-<br/>**Zewen Chi**, Li Dong, Furu Wei, Nan Yang, Saksham Singhal, Wenhui Wang, Xia Song, Xian-Ling Mao, Heyan Huang, Ming Zhou.
+<br/>Zewen Chi, Li Dong, Furu Wei, Nan Yang, Saksham Singhal, Wenhui Wang, Xia Song, Xian-Ling Mao, Heyan Huang, Ming Zhou.
 <br/>North American Association for Computational Linguistics (NAACL), Long paper, 2021.
 <br/>[\[blog\]](https://www.microsoft.com/en-us/research/blog/microsoft-turing-universal-language-representation-model-t-ulrv2-tops-xtreme-leaderboard/)
 [\[model\]](https://huggingface.co/microsoft/infoxlm-large)
