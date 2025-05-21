@@ -19,7 +19,7 @@ Selected Publications
 
 - [Reward Reasoning Model](https://arxiv.org/abs/2505.14674)
 <br/>Jiaxin Guo*, **Zewen Chi***, Li Dong*, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei
-<br/>[\[model\]](https://huggingface.co/Reward-Reasoning))
+<br/>[\[model\]](https://huggingface.co/Reward-Reasoning)
 
 - [XLM-E: Cross-Lingual Language Model Pre-Training via ELECTRA](https://aclanthology.org/2022.acl-long.427/)
 <br/>**Zewen Chi***, Shaohan Huang*, Li Dong, Shuming Ma, Bo Zheng, Saksham Singhal, Payal Bajaj, Xia Song, Xian-Ling Mao, Heyan Huang, Furu Wei
