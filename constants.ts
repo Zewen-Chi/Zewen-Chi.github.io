@@ -76,14 +76,14 @@ export const SELECTED_PUBLICATIONS = [
     title: "The Era of Agentic Organization: Learning to Organize with Language Models",
     venue: "arXiv preprint 2025",
     link: "https://arxiv.org/abs/2510.26658",
-    videoUrl: "res/asyncthink/demo.mp4",
+    videoUrl: "/res/asyncthink/demo.mp4",
     description: "We introduce asynchronous thinking (AsyncThink) as a new paradigm of reasoning with large language models. Through RL, AsyncThink learns to organize the internal thinking process into concurrently executable structures.",
   },
   {
     title: "Optimizing Prompts for Text-to-Image Generation",
     venue: "NeurIPS 2023",
     link: "https://proceedings.neurips.cc/paper_files/paper/2023/hash/d346d91999074dd8d6073d4c3b13733b-Abstract-Conference.html",
-    coverImage: "res/promptist.png",
+    coverImage: "/res/promptist.png",
     description: "We propose prompt adaptation, a framework that automatically adapts original user input to model-preferred prompts with RL.",
   },
   {
